@@ -1,2 +1,2 @@
 # Heart-Disease-Data-Visualization-project
-![Projekt](images/TWD-Heart-Disease (4).png)
+![Projekt](TWD-Heart-Disease (4).png)
